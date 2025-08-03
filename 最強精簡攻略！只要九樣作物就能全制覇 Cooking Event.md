@@ -1,46 +1,3 @@
-# 請將下文整理成圖文並茂的 BLOG 文章 "最強精簡攻略！只要九樣作物就能全制霸：Grow A Garden Cooking Event「頂級萬用食材清單」
-
-你還在為「Grow a Garden」Cooking Event配方太多、背包塞滿雜七雜八農作物而煩惱嗎？快來看看本篇「極簡最強食材清單」！只要九種頂級食材，你就能完成全部 PRISMATIC / DIVINE（稀有級）食譜，無論是PIZZA蛋糕還是冰淇淋，簡單一把抓！
-
-為什麼要極簡？
-活動食譜百百種、稀有等級材料最多，許多玩家常卡在「缺一種」就少一款高分料理。如果想省時省背包空間，又想完成全部料理任務，這份「最少材料萬用表」就是你的終極救星！
-
-只要這九種，所有頂級料理一網打盡！
-必備材料（可通用Prismatic/Divine）
-Sugar Apple（釋迦／番荔枝）
-Bone Blossom（骨花）
-Banana（香蕉）
-Pepper（彩虹／神級辣椒）
-Corn（彩虹／神級玉米）
-Tomato（彩虹／神級番茄）
-Pumpkin（南瓜）
-Pink Lily（粉百合）
-Bamboo（竹子）
-極簡材料配方一覽
-每個料理搭配，只用上述九種食材即可完成！
-
-食物名稱	等級	最簡公式（確認可行組合）
-Salad	Prismatic	2x Sugar Apple + 2x Prismatic Pepper + 1x Banana
-Sandwich	Prismatic	1x Banana + 3x Bone Blossom
-Pie	Prismatic	4x Bone Blossom + 1x Pumpkin
-Waffle	Prismatic	2x Pumpkin + 2x Banana
-Hot Dog	Prismatic	2x Bone Blossom + 1x Pink Lily + 2x Prismatic Corn
-Ice Cream	Prismatic	1x Banana + 1x Sugar Apple + 3x Bone Blossom
-Donut	Prismatic	2x Sugar Apple + 1x Prismatic Corn
-Pizza	Prismatic	2x Prismatic Pepper + 2x Sugar Apple + 1x Prismatic Tomato
-Sushi	Prismatic	8x Bamboo + 1x Prismatic Corn
-Cake	Prismatic	1x Banana + 1x Sugar Apple + 3x Bone Blossom
-Burger	Prismatic	2x Prismatic Pepper + 2x Prismatic Corn + 1x Prismatic Tomato
-攻略小TIP
-所有神級（Divine）與彩虹級（Prismatic）的蔬菜都可以互通，不用再死守於低階作物。
-
-不同料理可靈活交叉使用食材（像糖蘋果、骨花、香蕉三大主角），高效率又省資源。
-
-建議玩家提前囤好這九種頂級農作物，活動期間根本不用煩惱缺料問題。
-
-結語
-現在，只要牢記這份「九宮格萬用配方表」，你就是Cooking Event的全料理王者！不用收集一堆雜七雜八、也不怕合成卡關，讓你省時省力又省倉庫空間！"
-
 ## 最強精簡攻略！只要九樣作物就能全制霸：Grow A Garden Cooking Event「頂級萬用食材清單」
 
 你還在為「Grow a Garden」Cooking Event 配方太多、背包塞滿雜七雜八農作物而煩惱嗎？快來看看本篇「極簡最強食材清單」！只要九種頂級食材，你就能完成全部 PRISMATIC / DIVINE（稀有級）食譜，無論是PIZZA、蛋糕還是冰淇淋，都能輕鬆製作！
@@ -73,17 +30,17 @@ Grow a Garden 的烹飪活動是貿易更新的一部分，挑戰玩家完成 Ch
 
 | 食物名稱  | 等級      | 最簡公式（確認可行組合）                  |
 | :-------- | :-------- | :---------------------------------------- |
-| Salad     | Prismatic | 2x Sugar Apple + 2x Prismatic Pepper + 1x Banana |
+| Salad     | Prismatic | 2x Sugar Apple + 2x Pepper + 1x Banana |
 | Sandwich  | Prismatic | 1x Banana + 3x Bone Blossom             |
 | Pie       | Prismatic | 4x Bone Blossom + 1x Pumpkin            |
 | Waffle    | Prismatic | 2x Pumpkin + 2x Banana                  |
-| Hot Dog   | Prismatic | 2x Bone Blossom + 1x Pink Lily + 2x Prismatic Corn |
+| Hot Dog   | Prismatic | 2x Bone Blossom + 1x Pink Lily + 2x Corn |
 | Ice Cream | Prismatic | 1x Banana + 1x Sugar Apple + 3x Bone Blossom |
-| Donut     | Prismatic | 2x Sugar Apple + 1x Prismatic Corn      |
-| Pizza     | Prismatic | 2x Prismatic Pepper + 2x Sugar Apple + 1x Prismatic Tomato |
-| Sushi     | Prismatic | 8x Bamboo + 1x Prismatic Corn           |
+| Donut     | Prismatic | 2x Sugar Apple + 1x Corn      |
+| Pizza     | Prismatic | 2x Prismatic Pepper + 2x Sugar Apple + 1x Tomato |
+| Sushi     | Prismatic | 8x Bamboo + 1x Corn           |
 | Cake      | Prismatic | 1x Banana + 1x Sugar Apple + 3x Bone Blossom |
-| Burger    | Prismatic | 2x Prismatic Pepper + 2x Prismatic Corn + 1x Prismatic Tomato |
+| Burger    | Prismatic | 2x Prismatic Pepper + 2x Corn + 1x Tomato |
 
 ![Submission Process to Chris P. Bacon[8]](https://static.beebom.com/wp-content/uploads/2025/08/Submit-food-items-to-Chris-P-NPC.jpg?w=1024)
 
